@@ -21,7 +21,7 @@ import {RouterState, StoreRouterConnectingModule} from '@ngrx/router-store';
 import {EffectsModule} from '@ngrx/effects';
 import {EntityDataModule} from '@ngrx/data';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
-import {reducers} from './auth/reducers';
+import {reducers} from './reducers';
 import {metaReducers} from './reducers';
 
 
